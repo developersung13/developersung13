@@ -9,6 +9,7 @@
 </p>
 
 ### 💪 Skills
+#### Platforms & Languages
 <p>
     
 </p>
