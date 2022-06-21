@@ -15,4 +15,5 @@
 </p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
 </p>
