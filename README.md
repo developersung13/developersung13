@@ -8,7 +8,7 @@
 <p>
   👋 Hi there! I'm a <b>Front-end developer</b> who tries build a bridge that<br />
   improves difficulties and provides convenience in people's lives.<br />
-  Everything I study and feeel in this process is another happiness for me.
+  Everything I study and feel in this process is another happiness for me.
 </p>
 
 ### 💪 Skills
