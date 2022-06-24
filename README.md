@@ -7,7 +7,8 @@
 
 <p>
   👋 Hi there! I'm a Front-end developer who tries to provide convenience<br />
-  and improve difficulties in people's daily lives. 
+  and improve difficulties in people's daily lives. Everything I study and feel<br />
+  in this process is another happiness for me.
 </p>
 
 ### 💪 Skills
