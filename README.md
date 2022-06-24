@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  Hi there!
+  👋 Hi there! I'm a Front-end developer who tries to provide convenience and improve difficulties in people's daily lives.
 </p>
 
 ### 💪 Skills
