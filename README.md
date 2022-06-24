@@ -8,7 +8,9 @@
 <p>  
 👋&nbsp; Hi there! I'm a Front-end developer who tries to build  that<br />
   improves difficulites and provides conveninece in people' ives.<br />
-  Everything I study and feel in this process is another happniess for me.
+  Everything I study and feel in this process is another happniess for me.<br />
+  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
+  I have experience 7 years of Android development and 2 years of iOS development.<br/>
 </p>
 
 ### 💪 Skills
