@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  👋 Hi there! I'm a Front-end developer who tries to provide convenience<br />
+  👋 Hi there! I'm a <b>Front-end developer</b> who tries to provide convenience<br />
   and improve difficulties in people's daily lives. Everything I study and feel<br />
   in this process is another happiness for me.
 </p>
