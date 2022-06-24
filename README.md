@@ -6,8 +6,9 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br />
-  I have experience 7 years of Android development and 2 years of iOS development.<br />
+  👋 Hi there! I'm a <b>Front-end developer</b> who tries build a bridge that<br />
+  improves difficulties and provides convenience in people's lives.<br />
+  Everything I study and feeel in this process is another happiness for me.
 </p>
 
 ### 💪 Skills
