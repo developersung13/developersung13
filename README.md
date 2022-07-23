@@ -12,7 +12,7 @@
 </p>
 
 ### 💪 Skills
-#### Platforms & Languages
+#### Frameworks & Languages
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=black"/>
 </p>
