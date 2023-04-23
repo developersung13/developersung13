@@ -14,6 +14,7 @@
 ### 💪 Skills
 #### Frameworks(Libraries) & Languages
 <p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=?&logo=next.js&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=black"/>
 </p>
 <p>
