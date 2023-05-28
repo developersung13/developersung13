@@ -16,7 +16,7 @@
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
   <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=black"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express-000.svg?&style=flat-square&logo=express&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express-333.svg?&style=flat-square&logo=express&logoColor=white"/>
 </p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
