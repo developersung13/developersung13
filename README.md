@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I’m a <b>frontend developer</b> skilled in WEB and API development.<br />
+  👋&nbsp; Hi there! I’m a <b>frontend developer</b> skilled in WEB and API development. 🎨<br />
   I have a year of experience in Web development.<br />
   At present, I have been interested in creating APIs with Express.js and developing websites with Next.js.<br /><br />
   I enjoy Gomoku, bowling, and badminton. 🎳 🏸<br />
