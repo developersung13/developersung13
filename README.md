@@ -6,9 +6,11 @@
 </p>
 
 <p>
-  👋 Hi there! I'm a <b>Front-end developer</b> who tries to build a bridge<br />
-  that improves difficulties and provides convenience in people's lives.<br />
-  Everything I study and feel in this process is another happiness for me.
+  👋&nbsp; Hi there! I’m a <b>frontend developer</b> skilled in WEB and API development.<br />
+  I have a year of experience in Web development.<br />
+  At present, I have been interested in creating APIs with Express.js and developing websites with Next.js.<br /><br />
+  I enjoy Gomoku, bowling, and badminton. 🎳 🏸<br />
+  I hope to develop every beautiful thing. ✨<br /><br />
 </p>
 
 ### 💪 Skills
