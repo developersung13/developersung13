@@ -15,15 +15,17 @@
 </p>
 
 ### 💪 Skills
-#### Frameworks(Libraries) & Languages
+#### Platforms & Languages
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express-333.svg?&style=flat-square&logo=express&logoColor=white"/>
   <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux Toolkit-764ABC.svg?&style=flat-square&logo=redux&logoColor=white"/>
   <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=black"/>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=android&logoColor=white"/>
   
 </p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=grey"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
