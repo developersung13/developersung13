@@ -20,7 +20,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-333.svg?&style=flat-square&logo=express&logoColor=white"/>
   <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux Toolkit-764ABC.svg?&style=flat-square&logo=redux&logoColor=white"/>
-  <img alt="Zustand" src="https://img.shields.io/badge/🐻ㅤZustand-684e4b.svg?&style=flat-square&logo=&logoColor=white"/>
+  <img alt="Zustand" src="https://img.shields.io/badge/🐻 Zustand-eee.svg?&style=flat-square&logo=&logoColor=white"/>
   <img alt="Redux Query" src="https://img.shields.io/badge/React Query-FF4154.svg?&style=flat-square&logo=reactquery&logoColor=black"/>
   <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=black"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-0fa36f.svg?&style=flat-square&logo=android&logoColor=white"/>
