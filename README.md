@@ -21,8 +21,8 @@
   <img alt="Zustand" src="https://img.shields.io/badge/🐻 Zustand-eee.svg?&style=flat-square&logo=&logoColor=white"/>
   <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=black"/>
   <img alt="Redux Query" src="https://img.shields.io/badge/React Query-FF4154.svg?&style=flat-square&logo=reactquery&logoColor=black"/>
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?&style=flat-square&logo=jest&logoColor=white"/>
   <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
-  <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux Toolkit-764ABC.svg?&style=flat-square&logo=redux&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-0fa36f.svg?&style=flat-square&logo=android&logoColor=white"/>
   
 </p>
