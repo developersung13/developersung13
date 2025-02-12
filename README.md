@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I’m a <b>frontend engineer</b> skilled in WEB and API development. 🎨<br />
+  👋&nbsp; Hi there! I’m a <b>full-stack engineer</b> skilled in WEB and API development. 🎨<br />
   I have two years of experience in Web development.<br />
   At present, I am interested in creating a design system with Storybook for consistent UI,<br />
   and I am studying how to test with Jest to ensure functional reliability.<br /><br />
@@ -22,7 +22,7 @@
   <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=black"/>
   <img alt="Redux Query" src="https://img.shields.io/badge/TanStack Query-FF4154.svg?&style=flat-square&logo=reactquery&logoColor=black"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-0fa36f.svg?&style=flat-square&logo=android&logoColor=white"/>
-  
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E.svg?&style=flat-square&logo=node.js&logoColor=white"/>
 </p>
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
