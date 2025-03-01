@@ -7,7 +7,7 @@
 
 <p>
   👋&nbsp; Hi there! I’m a <b>full stack engineer</b> skilled in WEB and API development. 🎨<br />
-  I have two years of experience in Web development.<br />
+  I have three years of experience in Web development.<br />
   At present, I am interested in creating a design system with Storybook for consistent UI,<br />
   and I am studying how to test with Jest to ensure functional reliability.<br /><br />
   I enjoy Gomoku, bowling, and badminton. 🎳 🏸<br />
